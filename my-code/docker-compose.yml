@@ -4,9 +4,15 @@ services:
   frontend:
     build:
       context: ./frontend
-      dockerfile: ./frontend/Dockerfile
+      dockerfile: ./Dockerfile
+    command: tail -F anything
+    volumes:
+      - ./frontend:/app/frontend
   
   backend:
     build:
       context: ./backend
-      dockerfile: ./backend/Dockerfile
+      dockerfile: ./Dockerfile
+    command: tail -F anything
+    volumes:
+      - ./backend:/app/backend

@@ -2,4 +2,4 @@
 course: [udemy](https://www.udemy.com/course/complete-guide-to-building-an-app-with-net-core-and-react/)
 
 ## Resources
-* dot net: [main](https://dotnet.microsoft.com/) | [docker](https://hub.docker.com/_/microsoft-dotnet)
+* dot net: [main](https://dotnet.microsoft.com/) | [docker](https://hub.docker.com/_/microsoft-dotnet) | [docker .net sdk 5](https://hub.docker.com/_/microsoft-dotnet-sdk/)
