@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/app/backend/domain/domain.csproj",
-      "projectName": "domain",
-      "projectPath": "/app/backend/domain/domain.csproj",
+      "projectUniqueName": "/app/backend/Domain/Domain.csproj",
+      "projectName": "Domain",
+      "projectPath": "/app/backend/Domain/Domain.csproj",
       "packagesPath": "/root/.nuget/packages/",
-      "outputPath": "/app/backend/domain/obj/",
+      "outputPath": "/app/backend/Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/root/.nuget/NuGet/NuGet.Config"

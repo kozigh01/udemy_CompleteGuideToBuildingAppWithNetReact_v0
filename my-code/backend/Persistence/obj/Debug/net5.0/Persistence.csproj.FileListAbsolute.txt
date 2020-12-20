@@ -1,0 +1,15 @@
+/app/backend/Persistence/bin/Debug/net5.0/Persistence.deps.json
+/app/backend/Persistence/bin/Debug/net5.0/Persistence.dll
+/app/backend/Persistence/bin/Debug/net5.0/ref/Persistence.dll
+/app/backend/Persistence/bin/Debug/net5.0/Persistence.pdb
+/app/backend/Persistence/bin/Debug/net5.0/Domain.dll
+/app/backend/Persistence/bin/Debug/net5.0/Domain.pdb
+/app/backend/Persistence/obj/Debug/net5.0/Persistence.csprojAssemblyReference.cache
+/app/backend/Persistence/obj/Debug/net5.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/app/backend/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfoInputs.cache
+/app/backend/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfo.cs
+/app/backend/Persistence/obj/Debug/net5.0/Persistence.csproj.CoreCompileInputs.cache
+/app/backend/Persistence/obj/Debug/net5.0/Persistence.csproj.CopyComplete
+/app/backend/Persistence/obj/Debug/net5.0/Persistence.dll
+/app/backend/Persistence/obj/Debug/net5.0/ref/Persistence.dll
+/app/backend/Persistence/obj/Debug/net5.0/Persistence.pdb

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/NoFCw0z0AU0wZVmStASBTvk5V3a8KwnsYDlAnNdbbPQRupniLPY5TSfQnEJrB0v28JQEgjE+rdKPfT7UiBEYQ==",
+  "dgSpecHash": "lJdOqj/pupWcqxG+3ht/NaXHjz5B7uvzfHTLuf+iJGMiZXLR7YFx7IqrKO0z26L6OU2A4P9v1+4rcJBMh0FU8w==",
   "success": true,
-  "projectFilePath": "/app/backend/domain/domain.csproj",
+  "projectFilePath": "/app/backend/Domain/Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
