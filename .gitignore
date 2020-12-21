@@ -1,6 +1,6 @@
 # .net directories
-/bin
-/obj
+bin
+obj
 
 # Logs
 logs

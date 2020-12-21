@@ -2,5 +2,8 @@
   "files.exclude": {
     "**/bin": true,
     "**/obj": true
-  }
+  },
+  "sqlite.logLevel": "DEBUG",
+  "sqlite.sqlite3": "/usr/bin/sqlite3",
+  "csharpextensions.privateMemberPrefix": "_"
 }
