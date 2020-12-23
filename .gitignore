@@ -1,6 +1,7 @@
 # .net directories
 bin
 obj
+.DS_Store
 
 # Logs
 logs
