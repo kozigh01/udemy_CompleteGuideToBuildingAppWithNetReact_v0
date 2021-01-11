@@ -15,5 +15,34 @@ course: [udemy](https://www.udemy.com/course/complete-guide-to-building-an-app-w
     $ sudo apt-get update
     $ sudo apt-get install sqlite3
     ```
-    then set the vs code settings for sqlite->sqlite command or binaries path to "/usr/bin/sqlite3"  
-  *
+    then set the vs code settings for sqlite->sqlite command or binaries path to "/usr/bin/sqlite3"
+ * Docker
+    * node:15:
+
+      ```bash
+      $ docker run -it node:15
+
+      $ docker run -it -d --name mynode node:15
+      $ docker exec -it mynode ls
+
+      $ docker run -it node:15 npm ls
+      ```
+
+    * util:
+
+      * npm
+
+        ```bash
+        $ docker build -t node-npm -f Dockerfile.npm .
+
+        $ docker run -it -v $(pwd):/app node-npm init -y
+        ```
+
+      * npx
+
+        ```bash
+        $ docker build -t node-npx -f Dockerfile.npx .
+
+        $ docker run -it -v $(pwd):/app node-npx create-react-app app --template typescript
+        ```
+        
